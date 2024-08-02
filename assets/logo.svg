@@ -1,0 +1,44 @@
+<svg width="256.000000" height="256.000000" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<filter id="filter_36_46_dd" x="0.000000" y="0.000000" width="256.000000" height="256.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="1.33333"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<filter id="filter_36_47_dd" x="0.000000" y="0.000000" width="256.000000" height="256.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="1.33333"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<filter id="filter_36_48_dd" x="39.000000" y="41.000000" width="80.000000" height="50.000000" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="1.33333"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+		<filter id="filter_36_49_dd" x="48.000000" y="41.000000" width="173.799988" height="187.000031" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+			<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+			<feGaussianBlur in="BackgroundImage" stdDeviation="1.33333"/>
+			<feComposite in2="SourceAlpha" operator="in" result="effect_backgroundBlur_1"/>
+			<feBlend mode="normal" in="SourceGraphic" in2="effect_backgroundBlur_1" result="shape"/>
+		</filter>
+	</defs>
+	<g filter="url(#filter_36_46_dd)">
+		<g filter="url(#filter_36_47_dd)">
+			<circle id="椭圆 1" cx="128.000000" cy="128.000000" r="128.000000" fill="#6DB33F" fill-opacity="1.000000"/>
+		</g>
+		<g filter="url(#filter_36_48_dd)">
+			<path id="path" d="M109 41.0255C109.963 41.0302 110.926 41.0349 111.918 41.0398C114.279 41.0519 116.639 41.069 119 41.0905C117.359 51.5381 114.715 61.7199 112.117 71.959C111.676 73.7102 111.234 75.4614 110.794 77.2128C109.724 81.4629 108.649 85.7119 107.571 89.9602C107.229 90.3033 106.886 90.6465 106.532 91C84.2468 91 61.961 91 39 91C40.039 84.7613 40.039 84.7613 41.4026 81.5607C45.0445 74.7099 48.8849 68.8099 54.2719 63.2102C55.0608 62.4302 55.8496 61.6501 56.6623 60.8464C57.3762 60.1092 58.09 59.372 58.8255 58.6125C62.6457 54.9098 66.5752 52.0373 71.274 49.5197C77.9321 46.1382 84.6562 43.6206 91.987 42.1303C92.9004 41.936 93.8138 41.7416 94.7549 41.5414C99.5146 40.9222 104.206 40.9811 109 41.0255Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+		<path id="path" d="" fill="#6DB33F" fill-opacity="1.000000" fill-rule="evenodd"/>
+		<g filter="url(#filter_36_49_dd)">
+			<path id="path" d="M131.543 41C161.328 41 191.113 41 221.8 41C221.054 47.9494 221.054 47.9494 220.212 50.885C217.564 57.9054 214.61 63.9974 210.611 69.7903C206.659 75.2082 202.327 79.461 197.38 83.1538C192.668 86.1128 187.694 87.8043 182.599 89.1594C179.168 89.8082 175.749 90.0037 172.289 90.204C171.598 90.2469 170.907 90.2898 170.194 90.3339C168.5 90.4386 166.805 90.5399 165.11 90.6383C164.971 91.4765 164.971 91.4765 164.829 92.3316C162.567 105.967 160.294 119.599 158.009 133.228C156.904 139.819 155.803 146.411 154.71 153.005C153.655 159.374 152.59 165.74 151.518 172.104C151.112 174.527 150.709 176.952 150.31 179.378C149.748 182.786 149.174 186.189 148.597 189.593C148.356 191.085 148.356 191.085 148.109 192.607C146.977 199.184 145.261 204.908 142.732 210.763C140.612 214.756 138.172 218.214 135.29 221.253C132.359 223.857 129.294 225.593 125.949 227.029C122.75 228.078 119.617 228.029 116.338 227.978C115.223 227.979 115.223 227.979 114.086 227.98C111.652 227.978 109.219 227.954 106.785 227.931C105.089 227.925 103.393 227.921 101.696 227.918C97.2487 227.907 92.8011 227.878 88.3535 227.845C83.8082 227.814 79.263 227.801 74.7177 227.786C65.8117 227.754 56.9059 227.703 48 227.64C48.2343 225.894 48.4699 224.149 48.7059 222.403C48.8369 221.431 48.9679 220.459 49.1029 219.458C49.9958 213.172 51.2652 207.021 53.4283 201.289C55.2908 197.3 57.499 193.928 60.028 190.66C62.5998 187.763 65.1466 185.813 68.2332 184.021C71.4464 182.311 74.4019 181.512 77.8369 180.98C80.0204 180.858 82.1991 180.864 84.3841 180.883C84.9893 180.885 85.5945 180.886 86.2181 180.887C88.133 180.893 90.0479 180.905 91.9628 180.918C93.2687 180.923 94.5745 180.928 95.8804 180.932C99.0656 180.942 102.251 180.961 105.436 180.98C105.607 179.927 105.778 178.873 105.954 177.788C107.878 166.036 110.026 154.375 112.254 142.72C112.621 140.796 112.987 138.872 113.353 136.948C114.31 131.917 115.27 126.886 116.23 121.856C117.568 114.844 118.903 107.83 120.238 100.817C120.945 97.1054 121.652 93.3943 122.361 89.6835C125.453 73.4657 128.494 57.2326 131.543 41Z" fill="#FFFFFF" fill-opacity="1.000000" fill-rule="nonzero"/>
+		</g>
+		<path id="path" d="" fill="#6DB33F" fill-opacity="1.000000" fill-rule="evenodd"/>
+	</g>
+</svg>
